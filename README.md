@@ -1,2 +1,2 @@
 # MyProjects
-Projects done related to programming
+Projects done related to Web Development
